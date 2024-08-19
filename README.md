@@ -20,7 +20,7 @@ I strive to create clean, efficient, and scalable code that solves real-world pr
 JavaScript | TypeScript | HTML5 | CSS3 | SASS | SCSS | C# | SQL
 
 ### Frameworks & Libraries
-Angular |.NET Core | Bootstrap | Redux | RxJS | Jasmine | Jest | TestCafe | XUnit
+Angular | .NET Core | Bootstrap | Redux | RxJS | Jasmine | Jest | TestCafe | XUnit
 
 ### Tools & Platforms
 MySQL | SQL Server | CI/CD | Azure | Docker | LINQ | RabbitMQ
